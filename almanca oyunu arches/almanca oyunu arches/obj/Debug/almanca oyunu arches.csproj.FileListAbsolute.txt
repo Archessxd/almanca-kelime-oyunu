@@ -1,0 +1,11 @@
+D:\!arches\Yazılım\c#\37 - asdas\almanca oyunu arches\almanca oyunu arches\bin\Debug\almanca oyunu arches.exe.config
+D:\!arches\Yazılım\c#\37 - asdas\almanca oyunu arches\almanca oyunu arches\bin\Debug\almanca oyunu arches.exe
+D:\!arches\Yazılım\c#\37 - asdas\almanca oyunu arches\almanca oyunu arches\bin\Debug\almanca oyunu arches.pdb
+D:\!arches\Yazılım\c#\37 - asdas\almanca oyunu arches\almanca oyunu arches\obj\Debug\almanca oyunu arches.csproj.AssemblyReference.cache
+D:\!arches\Yazılım\c#\37 - asdas\almanca oyunu arches\almanca oyunu arches\obj\Debug\almanca oyunu arches.csproj.SuggestedBindingRedirects.cache
+D:\!arches\Yazılım\c#\37 - asdas\almanca oyunu arches\almanca oyunu arches\obj\Debug\almanca_oyunu_arches.Form1.resources
+D:\!arches\Yazılım\c#\37 - asdas\almanca oyunu arches\almanca oyunu arches\obj\Debug\almanca_oyunu_arches.Properties.Resources.resources
+D:\!arches\Yazılım\c#\37 - asdas\almanca oyunu arches\almanca oyunu arches\obj\Debug\almanca oyunu arches.csproj.GenerateResource.cache
+D:\!arches\Yazılım\c#\37 - asdas\almanca oyunu arches\almanca oyunu arches\obj\Debug\almanca oyunu arches.csproj.CoreCompileInputs.cache
+D:\!arches\Yazılım\c#\37 - asdas\almanca oyunu arches\almanca oyunu arches\obj\Debug\almanca oyunu arches.exe
+D:\!arches\Yazılım\c#\37 - asdas\almanca oyunu arches\almanca oyunu arches\obj\Debug\almanca oyunu arches.pdb
